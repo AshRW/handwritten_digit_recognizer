@@ -50,17 +50,15 @@ This project implements a handwritten digit recognition system using Python and 
 
 ## Project Structure
 
-- `train_model.py`: Script to train and save the SVM model.
-- `predict.py`: Script to load the model and predict digits from custom images.
-- `preprocessor.py`: Contains functions to preprocess images for the model.
-- `requirements.txt`: List of required Python packages.
+- `train_svm.py`: Script to train and save the SVM model.
+- `load_model.py`: Script to load the model and predict digits from custom images.
+- `preprocessing.py`: Contains functions to preprocess images for the model.
 
 ## Dependencies
 
 - OpenCV
 - Numpy
 - Scikit-learn
-- Joblib
 
 ## License
 
