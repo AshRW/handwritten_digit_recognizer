@@ -8,6 +8,12 @@ This project implements a handwritten digit recognition system using Python and 
 - **Model Training**: Train an SVM classifier using Scikit-learn's `digits` dataset.
 - **Prediction**: Classify digits from preprocessed images using the trained model.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/76f3ef5f-d52d-4615-98ae-4867ea490571
+
+
+
 ## Installation
 
 1. **Clone the Repository**:
